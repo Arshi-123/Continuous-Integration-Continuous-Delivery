@@ -1,5 +1,7 @@
 # Continuous-Integration-Continuous-Delivery
 
+**_In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)? What are some tools that are used for this and why are they used? 
+**_
 
 Continuous Integration/Continuous Delivery (CI/CD) is a software development pipeline that promotes consistent automation and monitoring through the building test and deployment of applications, bridging the gap between development and operations team. CI/CD ensures incremental alteration of code occurs in frequency iterations and its delivery is produced sustainability, aligning with its demand. The CI/CD pipeline’s focus on the automation of tasks increases early error discovery, decreases human error, which prior to CI/CD required developer intervention and therefore significantly increases productivity. In order to successfully implement CI/CD, tools are required to automate development, deployment and testing sections of the process, including Jenkins, Gitlab, AWS Codedeploy and Bamboo. 
 
